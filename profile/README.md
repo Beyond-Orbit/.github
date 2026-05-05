@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header.png" alt="Beyond Orbit" />
+  <img src="../img/header.png" alt="Beyond Orbit" />
 </p>
 
 ---
